@@ -1,0 +1,17 @@
+.sign-up-link {
+  text-align: center;
+  font-size: 0.9375rem;
+  color: #6b7280;
+  margin-top: 1.5rem;
+  padding-top: 1rem;
+}
+
+.sign-up-link__anchor {
+  color: #b45309;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.sign-up-link__anchor:hover {
+  text-decoration: underline;
+}
